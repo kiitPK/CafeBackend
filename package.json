@@ -1,0 +1,17 @@
+{
+  "name": "cafebackend",
+  "version": "1.0.0",
+  "description": "Backend support for Cafe(React-Native app)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.1",
+    "nodemon": "^1.18.3"
+  }
+}
